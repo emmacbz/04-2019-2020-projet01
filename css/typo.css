@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+html {font-size: 16px;}
+
+
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 20px;
+}
+
+nav {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+  font-family: 'Sacramento', cursive;
+  font-size: 20px;
+  text-align: center;
+  color:rgb(80, 60, 33)
+}
+
+.titremales {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.titrereine {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.titreouvrieres {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.titreabeille {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.titreguepe {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.titrebourdon {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.titrefrelon {
+  font-family: 'Josefin Sans', sans-serif;
+}
